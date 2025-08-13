@@ -9,9 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # install dependencies
-      - name: install docker and jq
-        run: sudo apt-get update && sudo apt-get install -y docker.io jq
 
       # base
       - name: base
