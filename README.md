@@ -46,7 +46,7 @@
 
 ## 📦 GitHub Metrics
 
-<img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/base.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/base.svg" />
 
 <table>
   <tr>
@@ -73,7 +73,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- 3D 贡献图 -->
 <picture>
