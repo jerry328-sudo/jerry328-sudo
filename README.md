@@ -12,14 +12,26 @@
 ## 📊 编码活动与统计
 
 <!-- GitHub Streak 连续提交统计 -->
-<div style="display: flex; gap: 10px; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-  </picture>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=light&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=light" />
+          <img height='160' src="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=dark" />
+        </picture>
+      </td>
+    </tr>
+  </table>
   
-  <img height='160' src="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=tokyonight" />
 </div>
 
 <!-- GitHub Activity Graph 活动图 -->
