@@ -11,15 +11,17 @@
 
 ## 📊 编码活动与统计
 
-GitHub Streak 连续提交统计
 <!-- GitHub Streak 连续提交统计 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-%20</picture>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
+  </picture>
+  
+  <img height='160' src="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=tokyonight" />
+</div>
 
-GitHub Activity Graph 活动图
 <!-- GitHub Activity Graph 活动图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jerry328-sudo&theme=xcode&bg_color=FF000000&hide_border=true" />
@@ -27,24 +29,8 @@ GitHub Activity Graph 活动图
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerry328-sudo&theme=xcode&bg_color=FF000000&hide_border=true" />
 </picture>
 
-GitHub 数据统计与语言占比
-<!-- GitHub 数据统计与语言占比 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jerry328-sudo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jerry328-sudo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-## ⏱️ WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jerry328-sudo&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jerry328-sudo&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerry328-sudo&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+<!-- GitHub 奖杯🏆 -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=jerry328-sudo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 ## 📦 GitHub Metrics
 
@@ -77,7 +63,6 @@ GitHub 数据统计与语言占比
   </tr>
 </table>
 
-3D 贡献图
 <!-- 3D 贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -85,6 +70,5 @@ GitHub 数据统计与语言占比
   <img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-RepoBeats 分析
 <!-- RepoBeats 分析 -->
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
