@@ -1,7 +1,25 @@
-<!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/jerry328-sudo/jerry328-sudo/refs/heads/output/github-contribution-grid-snake.svg)
+</div>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=bigorange18&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+</div>
+---
+
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
+
+---
+
 
 ### About My Github
 <div align="center">
