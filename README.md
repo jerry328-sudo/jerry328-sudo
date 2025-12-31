@@ -2,9 +2,9 @@
 
   <!-- Snake Code Contribution Map -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -17,16 +17,9 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=light&hide_border=true" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerry328-sudo&theme=dark&hide_border=true" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=light" />
-          <img height='160' src="https://github-readme-stats.vercel.app/api?username=jerry328-sudo&show_icons=true&theme=dark" />
+          <source media="(prefers-color-scheme: dark)" srcset="readme-assets/streak-stats-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="readme-assets/streak-stats-light.svg" />
+          <img src="readme-assets/streak-stats-dark.svg" />
         </picture>
       </td>
     </tr>
@@ -36,13 +29,10 @@
 
 <!-- GitHub Activity Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jerry328-sudo&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jerry328-sudo&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerry328-sudo&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="readme-assets/activity-graph-light.svg" />
+  <img src="readme-assets/activity-graph-dark.svg" />
 </picture>
-
-<!-- GitHub Trophy🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=jerry328-sudo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 ## 📦 GitHub Metrics
 
@@ -77,10 +67,10 @@
 
 <!-- 3D Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 <!-- RepoBeats Analytics -->
-<img width="120%" src="https://repobeats.axiom.co/api/embed/6db568f30b9c177496cc7091f5845b32352d02fc.svg" />
+<img width="120%" src="readme-assets/repobeats.svg" />

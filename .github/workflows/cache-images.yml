@@ -1,0 +1,33 @@
+name: Cache README Images
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:30 运行 (北京时间 8:30)
+    - cron: '30 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  cache-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Download images
+        run: node scripts/cache-images.js
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "📷 Cache README images" || true
+          git push
