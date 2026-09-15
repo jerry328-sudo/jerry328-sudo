@@ -1,76 +1,40 @@
 <div align="center">
 
-  <!-- Snake Code Contribution Map -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+# Patrick
+
+### Battery modeling · Scientific computing · AI tools
+
+Researching batteries, building models, and turning useful ideas into small tools.<br>
+电池研究、科学计算与实用工具。
+
+[Blog](https://blog.echem.website/) · [ORCID](https://orcid.org/0009-0006-4691-1944) · [Notebook](https://notebook.echem.ai/)
 
 </div>
 
-## 📊 Coding Activity & Statistics
+---
 
-<!-- GitHub Streak Statistics -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="readme-assets/streak-stats-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="readme-assets/streak-stats-light.svg" />
-          <img src="readme-assets/streak-stats-dark.svg" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-  
-</div>
+## Selected work
 
-<!-- GitHub Activity Graph -->
+- [**demo**](https://github.com/jerry328-sudo/demo) — Interactive web experiments in physics, AI, and scientific visualization.<br><sub>CSS / JavaScript · [Live site](https://notebook.echem.ai/)</sub>
+- [**SimpleRAG**](https://github.com/jerry328-sudo/SimpleRAG) — A local-first Obsidian RAG plugin with semantic, multimodal, and image search.<br><sub>TypeScript</sub>
+- [**fft_watermark**](https://github.com/jerry328-sudo/fft_watermark) — Experiments with frequency-domain image watermarking.<br><sub>Python</sub>
+- [**table-management-system**](https://github.com/jerry328-sudo/table-management-system) — A lightweight Flask app for managing research-group server resources.<br><sub>Python / Flask</sub>
+- [**v2ray-exporter-visualization**](https://github.com/jerry328-sudo/v2ray-exporter-visualization) — A Streamlit dashboard for monitoring v2ray-exporter metrics.<br><sub>Python / Streamlit</sub>
+
+[View all repositories →](https://github.com/jerry328-sudo?tab=repositories)
+
+## Elsewhere
+
+- [**Blog**](https://blog.echem.website/) — Long-form notes and technical writing
+- [**Notebook**](https://notebook.echem.ai/) — Small web experiments and visualizations
+- [**ORCID**](https://orcid.org/0009-0006-4691-1944) — Research identity and publications
+
+## Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/activity-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="readme-assets/activity-graph-light.svg" />
-  <img src="readme-assets/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
-## 📦 GitHub Metrics
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/base.svg" />
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/jerry328-sudo/jerry328-sudo/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table> -->
-
-<!-- 3D Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-<!-- RepoBeats Analytics -->
-<img width="120%" src="readme-assets/repobeats.svg" />
+<sub>Thanks for stopping by.</sub>
